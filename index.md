@@ -18,3 +18,5 @@
   1. ECE 15
   2. ECE 35
   3. ECE 45
+
+***Here is a link to the [other file](https://wiz002-ucsd.github.io/cse15l-lab-reports/hello.html)***
