@@ -4,6 +4,7 @@ In this lab report I will reproduce the tasks from the week 8 lab competition.
 
 ### Log into ieng6
 <img width="741" alt="Screenshot 2023-02-27 at 1 04 48 PM" src="https://user-images.githubusercontent.com/122568668/221685375-49b922f7-995f-48e4-a3dc-b51585337802.png">
+
 In this step, I typed in my ieng6 log in with the ssh into the command terminal. 
 
 `ssh cs15lwi23asz@ieng6.ucsd.edu` `<enter>`
